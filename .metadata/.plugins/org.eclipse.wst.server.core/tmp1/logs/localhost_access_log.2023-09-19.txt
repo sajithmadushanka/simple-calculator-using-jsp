@@ -1,0 +1,3 @@
+127.0.0.1 - - [19/Sep/2023:15:20:42 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Sep/2023:15:21:08 +0530] "GET /simple_calculator/index.jsp HTTP/1.1" 200 802
+0:0:0:0:0:0:0:1 - - [19/Sep/2023:15:21:13 +0530] "POST /simple_calculator/CalculatorServlet HTTP/1.1" 500 3315
